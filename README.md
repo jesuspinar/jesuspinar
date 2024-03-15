@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m learning programing languages such as Java, Typescript and MySQL. 
-- 🤝 I would like to collaborate on app or web development projects.
-- 💭 I’m looking for help to develop Wordpress plugins.
+- 🎸 I’m currently having fun whit PHP, Dart and Python. 
+- 🤝 I would like to collaborate on mobile apps or web development projects.
+- 💭 I’m looking for help to build a developers team.
 - 📫 Ask me about anything [here](https://github.com/jesuspinar/jesuspinar/issues)
 
