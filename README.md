@@ -15,7 +15,7 @@ Web app to read from and write to NFC tags using Chrome on Android devices.
 [![Contacts App](https://img.shields.io/badge/Contacts_App-green?style=for-the-badge)](https://github.com/jesuspinar/contacts-app-laravel)  
 Php web app to easily store and manage your contacts.
 
-[![Ecoatasesores](https://img.shields.io/badge/-ecoat_asesores-yellow?style=for-the-badge)](https://github.com/jesuspinar/ecoat-web)
+[![Ecoatasesores](https://img.shields.io/badge/-ecoat_asesores-yellow?style=for-the-badge)](https://github.com/jesuspinar/ecoat-web)  
 Profesional business web optimized for SEO.
 
 ### 🤖 Android Development
