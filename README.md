@@ -5,8 +5,6 @@
 📫 **Would you like to contact me?** Feel free to write me [devjesuspinar@gmail.com](mailto:devjesuspinar@gmail.com)  
 🌐 **Find out more about me:** [https://jesuspinar.com/blog](https://jesuspinar.com/blog)
 
----
-
 ## 🌟 **Featured Projects**
 
 ### 🌐 Web Development
@@ -20,7 +18,6 @@ Php web app to easily store and manage your contacts.
 [![Ecoatasesores](https://img.shields.io/badge/-ecoat_asesores-yellow?style=for-the-badge)](https://github.com/jesuspinar/ecoat-web)
 Profesional business web optimized for SEO.
 
----
 
 ### 🤖 Android Development
 
@@ -30,7 +27,7 @@ Create your new mail app with a material UI template.
 [![Calculator App](https://img.shields.io/badge/-Calculator-blue?style=for-the-badge)](https://github.com/jesuspinar/calculator-java)  
 Simple calculator UI design
 
----
+
 ### 🎮 Game Development
 
 [![Planet Shooter](https://img.shields.io/badge/-Planet_shooter-purple?style=for-the-badge)](https://github.com/jesuspinar/planet-shooter)  
@@ -39,7 +36,7 @@ Planet Shooter is a browser-based shooter mini game 👾
 [![Click speed Test](https://img.shields.io/badge/-Click_Speed_Test-yellow?style=for-the-badge)](https://github.com/jesuspinar/click-speed-test)  
 Start the game and see how many clicks you can achieve within a selected time frame.
 
----
+
 ## 🛠️ **Technical Skills**
 
 ### 📚 Languages and Frameworks:
@@ -51,7 +48,6 @@ Start the game and see how many clicks you can achieve within a selected time fr
 ### 🤝 Softskills:
  ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white) ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
  
----
 
 ## 📣 **Contributions and Collaborations**
 
