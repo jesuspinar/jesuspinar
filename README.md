@@ -1,9 +1,9 @@
 # 👋 Hey, It's Jesus Pinar
 
-🌟 Developer passionate about technology, innovation and problem solving through code. I have experience in multiple areas, including web development, mobile applications, games and technology solutions with NFC and connectivity.
+Developer passionate about technology, innovation and problem solving through code. I have experience in multiple areas, including web development, mobile applications, games and technology solutions with NFC and connectivity.
 
 📫 **Would you like to contact me?** Feel free to write me [devjesuspinar@gmail.com](mailto:devjesuspinar@gmail.com)  
-🌐 **Find out more about me:** [https://jesuspinar.com/blog](https://jesuspinar.com/blog)
+💻 **Find out more about me:** [https://jesuspinar.com/blog](https://jesuspinar.com/blog)
 
 ## 🌟 **Featured Projects**
 
