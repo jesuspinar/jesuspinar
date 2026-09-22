@@ -1,6 +1,6 @@
 <div align="center">
 
-# ◉ JESUS PINAR
+# JESUS PINAR
 
 ### Senior Full Stack Developer
 
